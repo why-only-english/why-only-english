@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Jonggeun's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=Welcome&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Jonggeun's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 <h2 align="center">"Growing and Sharing"</h2>
 
