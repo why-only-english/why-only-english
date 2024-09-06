@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&text=Growing%20and%20Sharing&fontSize=60&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
 
+종근님의 Final Vocabulary가 궁금합니다~
+추가 부탁염~
 <h2 align="center">Jonggeun's GitHub Profile</h2>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
