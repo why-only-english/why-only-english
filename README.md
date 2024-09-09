@@ -5,7 +5,7 @@
 
 <h3 align="center">➕ Final Voca ➕</h3>
 <p align="center">
-실천 (그냥 하자)
+실천 (그냥 하자 제발 좀)
 </p>
 
 <h3 align="center"> 😎💰💸 NiceNiceNice 😎💰💸 </h3>
@@ -16,7 +16,7 @@
 <h3 align="center"> 🚩 Goal 🚩 </h3>
 <p align="center">
 40살 자영업<br>
-50살 파이어족
+50살 🔥 파이어족 🔥
 </p>
 
 <h3 align="center"> ❓ Experiences ❗️ </h3>
@@ -24,7 +24,7 @@
 <div align="center">
   <table>
     <tr>
-      <th>Experiences</th>
+      <th>Experienecs</th>
       <th>Date</th>
     </tr>
     <tr>
