@@ -56,7 +56,7 @@
 |Project|Date|Description|Contribute
 |:---|:---|:---|:---|
 |[ttokleap](https://github.com/ttoklip/BackEnd)|24.01 ~ 진행 중|독립생활에 있어 다양한 정보가 필요한 사회초년생들이 각자의 어려움을 공유하고 해결하는 정보 공유 커뮤니티 플랫폼|Redis, Mail Authentication, QueryDsl, ECS|
-|[moreview](https://github.com/TUK-MoreView/more-view-backend)|24.03 ~ 24.09|기존의 PowerPoint 기능을 활용하면서 3D 모델링 기술을 통합한 프레젠테이션 플랫폼|CI/CD, JPA, Spirng Security| 
+|[moreview](https://github.com/TUK-MoreView/more-view-backend)|24.03 ~ 24.09|기존의 PowerPoint 기능을 활용하면서 3D 모델링 기술을 통합한 프레젠테이션 플랫폼|CI/CD, JPA, Spring Security| 
 |[swapshop](https://github.com/why-only-english/swapshop-backend)|23.07 ~ 23.09|대학교 중고서적 거래 플랫폼|JPA|
 |[peoplelink](https://github.com/why-only-english/peoplelink)|23.11 ~ 23.12|사용자들의 일상을 표현하는 문구와 이미지 업로드가 가능한 웹 사이트|JSP|
 
