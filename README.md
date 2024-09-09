@@ -26,7 +26,7 @@
 <div align="center">
   <table>
     <tr>
-      <th>Experienecs</th>
+      <th>Experiences</th>
       <th>Date</th>
     </tr>
     <tr>
