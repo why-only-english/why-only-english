@@ -8,7 +8,7 @@
 실천 (그냥 하자 제발 좀)
 </p>
 
-<h3 align="center"> 😎💰💸 NiceNiceNiceNiceNice 😎💰💸 </h3>
+<h3 align="center"> 😎💰💸 NiceNiceNice 😎💰💸 </h3>
 <p align="center">
 돈 많이 벌기
 </p>
