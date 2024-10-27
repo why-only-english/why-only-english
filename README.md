@@ -32,7 +32,7 @@
     </tr> 
         <tr>
       <td>2019.03 ~ </td>
-      <td>Dept. of computer engineering</td>
+      <td>Dept. of Computer Engineering</td>
     </tr>    
   </table>
 </div>
