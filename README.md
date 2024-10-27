@@ -40,12 +40,18 @@
 
 <h3 align="center"> 💻 Project 💻 </h3>
 
-|Project|Date|Description|
-|:---|:---|:---|
-|[ttokleap](https://github.com/ttoklip/BackEnd)|2024.01 ~ |독립생활에 있어 다양한 정보가 필요한 사회초년생들이 각자의 어려움을 공유하고 해결하는 정보 공유 커뮤니티 플랫폼|
-|[moreview](https://github.com/TUK-MoreView/more-view-backend)|2024.03 ~ 2024.09|기존의 PowerPoint 기능을 활용하면서 3D 모델링 기술을 통합한 프레젠테이션 플랫폼| 
-|[swapshop](https://github.com/why-only-english/swapshop-backend)|2023.07 ~ 2023.09|대학교 중고서적 거래 플랫폼|
-|[peoplelink](https://github.com/why-only-english/peoplelink)|2023.11 ~ 2023.12|사용자들의 일상을 표현하는 문구와 이미지 업로드가 가능한 웹 사이트|
+<div align="center">
+
+| Date         | Project | Description                                           |
+| ------------ | ------- | ----------------------------------------------------- |
+| 2024.01 ~    | [ttokleap](https://github.com/ttoklip/BackEnd) | 사회초년생들을 위한 정보 공유 커뮤니티 플랫폼 |
+| 2024.03 ~ 2024.09 | [moreview](https://github.com/TUK-MoreView/more-view-backend) | 3D 모델링 기술을 통합한 프레젠테이션 플랫폼 |
+| 2023.07 ~ 2023.09 | [swapshop](https://github.com/why-only-english/swapshop-backend) | 대학교 중고서적 거래 플랫폼 |
+| 2023.11 ~ 2023.12 | [peoplelink](https://github.com/why-only-english/peoplelink) | 문구와 이미지 업로드가 가능한 웹 사이트 |
+
+</div>
+
+
 
 
 <h3 align="center">📚 Tech Stack 📚</h3>
