@@ -77,13 +77,19 @@
 
 </div>
 
+<div align="center">
+  
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{why-only-english}?pet-id=1" width="1000" height="120"/>
 </a>
 
+</div>
+
+<!--
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{why-only-english}"/>
 </a>
+-->
 
 <!--
 **why-only-english/why-only-english** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
