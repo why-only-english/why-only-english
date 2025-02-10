@@ -11,7 +11,7 @@
       <th>Experienecs</th>
     </tr>
     <tr>
-      <td>2024.09 ~ </td>
+      <td>2024.09 ~ 2024.12 </td>
       <td>Shinhan Securities Pro Digital Academy 5th</td>
     </tr>
     <tr>
@@ -31,7 +31,7 @@
       <td>Social Leader College Student Mentoring</td>
     </tr> 
         <tr>
-      <td>2019.03 ~ </td>
+      <td>2019.03 ~ 2025.02 </td>
       <td>Dept. of Computer Engineering</td>
     </tr>    
   </table>
