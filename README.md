@@ -1,3 +1,5 @@
+<!--
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&text=잘%20부탁드립니다%20&fontSize=60&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
 
 <h2 align="center">Jonggeun's GitHub Profile</h2>
@@ -103,3 +105,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
